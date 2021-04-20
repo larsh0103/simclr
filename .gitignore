@@ -1,0 +1,10 @@
+
+### Exclude Everything
+*
+
+!.gitignore
+!eval.py
+!main.py
+!README.md
+!requirements.txt
+!simclr.py
